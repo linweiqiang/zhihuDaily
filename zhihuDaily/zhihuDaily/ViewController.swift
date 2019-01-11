@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        NSLog("11.1");
     }
 
     override func didReceiveMemoryWarning() {
